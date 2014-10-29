@@ -92,11 +92,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-#wrapper{width:960px;background-color:red;margin-left:auto;margin-right:auto;}
+#wrapper{width:960px;margin-left:auto;margin-right:auto;font-size:30px;line-height:43px;}
 #logo{width:100px;height:100px;width:86px;height86px;}
 #menu{height:56px;line-height:56px;}#menu ul,li{margin:0px;}
 #menu li{display:inline;}
-
+h1{font-size:220%;}h2{font-size:180%;}h3{font-size:160%;}h5{font-size:140%;}h6{font-size:120%;}
+#content{width:898px;padding-left:31px;padding-right:31px}
+#article_heading{height:86px;line-height:86px;}
+p.first{margin:0px;}
+#article_heading h1{margin:0px;}
 
 
 
